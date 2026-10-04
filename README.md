@@ -25,10 +25,10 @@ Built a GitHub Actions framework that builds SU2, runs validation cases against 
 | [Event Attendance](https://github.com/HarshM0210/Event-Attendance-Prediction) | Attendance prediction with custom ε-insensitive loss and a ±10pp operational metric |
 
 #### Tech stack
-**Languages:** Python · C++
-**ML / DL:** PyTorch · Hugging Face Transformers · scikit-learn · LightGBM · XGBoost · SHAP · TensorFlow
-**Data:** NumPy · Pandas · Matplotlib
+**Languages:** Python · C++ </br>
+**ML / DL:** PyTorch · Hugging Face Transformers · scikit-learn · LightGBM · XGBoost · SHAP · TensorFlow </br>
+**Data:** NumPy · Pandas · Matplotlib </br>
 **Engineering:** Git · GitHub Actions · Docker
 
-#### 📫 Reach me
+#### Reach me
 [LinkedIn](https://www.linkedin.com/in/harsh-mishra-aa1a16289/) · harshvijayrbl@gmail.com
