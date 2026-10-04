@@ -8,7 +8,7 @@ I work on **machine learning, multi-objective optimization, and scientific compu
 
 #### Experience
 
-- **Google Summer of Code 2025, SU2 Foundation:** mentored by faculty at TU Eindhoven and University of Twente.</br>
+- **Google Summer of Code 2025, SU2 Foundation:** Mentored by faculty at TU Eindhoven and University of Twente.</br>
 Built a GitHub Actions framework that builds SU2, runs validation cases against NASA turbulence-modeling reference data, and publishes the results to the SU2 website with no manual steps. [Code](https://github.com/su2code/VandV_Actions) · [Report](https://github.com/HarshM0210/GSoC2025) · Abstract accepted at the SU2 Conference 2025 (Varenna, Italy).
   
 #### Publications
