@@ -12,7 +12,7 @@ I work on **machine learning, multi-objective optimization, and scientific compu
 Built a GitHub Actions framework that builds SU2, runs validation cases against NASA turbulence-modeling reference data, and publishes the results to the SU2 website with no manual steps. [Code](https://github.com/su2code/VandV_Actions) · [Report](https://github.com/HarshM0210/GSoC2025) · Abstract accepted at the SU2 Conference 2025 (Varenna, Italy).
   
 #### Publications
-  - *An explainable multi-objective optimization approach for efficient EV charging infrastructure planning* IEEE INDISCON 2026 (Accepted)
+  - *An explainable multi-objective optimization approach for efficient EV charging infrastructure planning.* IEEE INDISCON 2026 (Accepted)
   - *Role of Ordering of Points in WFG Algorithm to Compute Hypervolume.* ICETCI 2026 (Accepted)
   - *Analysis of Quick Hypervolume Algorithm.* Swarm and Evolutionary Computation, Elsevier, Impact Factor: 9.6 (Under Review)
 
