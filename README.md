@@ -16,7 +16,7 @@ Built a GitHub Actions framework that builds SU2, runs validation cases against 
   - *Role of Ordering of Points in WFG Algorithm to Compute Hypervolume.* ICETCI 2026 (Accepted)
   - *Analysis of Quick Hypervolume Algorithm.* Swarm and Evolutionary Computation, Elsevier, Impact Factor: 9.6 (Under Review)
 
-#### Selected projects
+#### Projects
 | Project | What it is |
 |---|---|
 | [Hypervolume](https://github.com/HarshM0210/Hypervolume) | Implementations and experiments for WFG and Quick Hypervolume (code behind two papers) |
