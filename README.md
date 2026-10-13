@@ -6,13 +6,13 @@
 
 I am a final year undergraduate student pursuing B.Tech in Mathematics and Computing at the Rajiv Gandhi Institute of Petroleum Technology, an Institute of National Importance established by the Government of India through an Act of Parliament, akin to the IITs.
 
-I work on **Machine Learning, Multi-Objective Optimization, and Scientific Computing,** with a particular interest in hypervolume algorithms and deep learning. I enjoy both the research and the engineering behind it.
+I work on **Machine Learning and Multi-Objective Optimization,** with a particular interest in hypervolume algorithms and deep learning. I enjoy both the research and the engineering behind it.
 
 ---
 
 #### Experience
 
-- **Google Summer of Code 2025, SU2 (Stanford University Unstructured) Foundation**
+- **Google Summer of Code 2025 - SU2 (Stanford University Unstructured) Foundation**
   - Mentored by faculty at TU Eindhoven and University of Twente, Netherlands.
   - Built a GitHub Actions framework that builds SU2, runs validation cases against NASA turbulence-modeling reference data, and publishes the results to the SU2 website with no manual steps.
   - Abstract accepted at the SU2 Conference 2025 (Varenna, Italy) · [Code](https://github.com/su2code/VandV_Actions) · [Report](https://github.com/HarshM0210/GSoC-2025)
@@ -27,7 +27,7 @@ I work on **Machine Learning, Multi-Objective Optimization, and Scientific Compu
 ---
 
 #### Projects
-| Project | What it is |
+| Project | Description |
 |---|---|
 | [Hypervolume](https://github.com/HarshM0210/Hypervolume) | Implementations and experiments for WFG and Quick Hypervolume (code behind two papers) |
 | [EV Charging Optimization](https://github.com/HarshM0210/Multi-Objective-Optimization-for-Electric-Vehicle-Charging-Infrastructure) | NSGA-II site selection with SHAP-explained surrogate models |
