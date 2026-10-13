@@ -34,6 +34,7 @@ I work on **Machine Learning, Multi-Objective Optimization, and Scientific Compu
 | [Second-Life](https://github.com/HarshM0210/Second-Life) | AI-powered returns grading, fraud detection and resale (Amazon HackOn S6) |
 | [Event Attendance](https://github.com/HarshM0210/Event-Attendance-Prediction) | Attendance prediction with custom ε-insensitive loss and a ±10pp operational metric |
 | [Tresury Pulse](https://github.com/HarshM0210/Treasury-Pulse) | Risk-adjusted 30-day cash forecasts that flag shortfalls before they happen. |
+| [Business Entity Resolution](https://github.com/HarshM0210/Business-Entity-Resolution) | Multi-source business entity resolution using multi-retriever blocking and cross-encoder reranking |
 
 ---
 
