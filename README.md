@@ -32,8 +32,8 @@ I work on **Machine Learning and Multi-Objective Optimization,** with a particul
 | [Hypervolume](https://github.com/HarshM0210/Hypervolume) | Implementations and experiments for WFG and Quick Hypervolume (code behind two papers) |
 | [EV Charging Optimization](https://github.com/HarshM0210/Multi-Objective-Optimization-for-Electric-Vehicle-Charging-Infrastructure) | NSGA-II site selection with SHAP-explained surrogate models |
 | [ChronoFact](https://github.com/HarshM0210/ChronoFact) | Time-aware, verified memory for AI assistants |
-| [Event Attendance](https://github.com/HarshM0210/Event-Attendance-Prediction) | Attendance prediction with custom ε-insensitive loss and a ±10pp operational metric |
-| [Tresury Pulse](https://github.com/HarshM0210/Treasury-Pulse) | Risk-adjusted 30-day cash forecasts that flag shortfalls before they happen. |
+| [Event Attendance](https://github.com/HarshM0210/Event-Attendence-Behaviour) | Attendance prediction with custom ε-insensitive loss and a ±10pp operational metric |
+| [Treasury Pulse](https://github.com/HarshM0210/Treasury-Pulse) | Risk-adjusted 30-day cash forecasts that flag shortfalls before they happen. |
 | [Business Entity Resolution](https://github.com/HarshM0210/Business-Entity-Resolution) | Multi-source business entity resolution using multi-retriever blocking and cross-encoder reranking |
 | [Second-Life](https://github.com/HarshM0210/Second-Life) | AI-powered returns grading, fraud detection and resale |
 
