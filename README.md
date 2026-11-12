@@ -15,7 +15,7 @@ I work on **Machine Learning and Multi-Objective Optimization,** with a particul
 - **Google Summer of Code 2025 - SU2 (Stanford University Unstructured) Foundation**
   - Mentored by faculty at TU Eindhoven and University of Twente, Netherlands.
   - Built a GitHub Actions framework that builds SU2, runs validation cases against NASA turbulence-modeling reference data, and publishes the results to the SU2 website with no manual steps.
-  - Abstract accepted at the SU2 Conference 2025 (Varenna, Italy) · [Code](https://github.com/su2code/VandV_Actions) · [Report](https://github.com/HarshM0210/GSoC-2025)
+  - Abstract presented at SU2 Conference 2025 (Varenna, Italy) · [Code](https://github.com/su2code/VandV_Actions) · [Report](https://github.com/HarshM0210/GSoC-2025)
 
 ---
   
@@ -32,9 +32,9 @@ I work on **Machine Learning and Multi-Objective Optimization,** with a particul
 | [Hypervolume](https://github.com/HarshM0210/Hypervolume) | Implementations and experiments for WFG and Quick Hypervolume (code behind two papers) |
 | [EV Charging Optimization](https://github.com/HarshM0210/Multi-Objective-Optimization-for-Electric-Vehicle-Charging-Infrastructure) | NSGA-II site selection with SHAP-explained surrogate models |
 | [ChronoFact](https://github.com/HarshM0210/ChronoFact) | Time-aware, verified memory for AI assistants |
-| [Event Attendance](https://github.com/HarshM0210/Event-Attendence-Behaviour) | Attendance prediction with custom ε-insensitive loss and a ±10pp operational metric |
-| [Treasury Pulse](https://github.com/HarshM0210/Treasury-Pulse) | Risk-adjusted 30-day cash forecasts that flag shortfalls before they happen. |
 | [Business Entity Resolution](https://github.com/HarshM0210/Business-Entity-Resolution) | Multi-source business entity resolution using multi-retriever blocking and cross-encoder reranking |
+| [Treasury Pulse](https://github.com/HarshM0210/Treasury-Pulse) | Risk-adjusted 30-day cash forecasts that flag shortfalls before they happen. |
+| [Event Attendance](https://github.com/HarshM0210/Event-Attendence-Behaviour) | Attendance prediction with custom ε-insensitive loss and a ±10pp operational metric |
 
 ---
 
